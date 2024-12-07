@@ -1,0 +1,42 @@
+[
+  {
+    "name": "RANDY BUDIMAN",
+    "command": "ytmp3",
+    "query": "https://youtu.be/JDjYTZ0_zqc?si=73GDrpLolkH9c5YJ",
+    "time": "23:30:13",
+    "number": "62895344190240",
+    "group": "BIG ON TECHNOLOGY {BOT}"
+  },
+  {
+    "name": "Let Him Cook",
+    "command": "backup",
+    "query": "",
+    "time": "00:01:37",
+    "number": "6285159088173",
+    "group": "Private chat"
+  },
+  {
+    "name": "Let Him Cook",
+    "command": "backup",
+    "query": "",
+    "time": "00:04:28",
+    "number": "6285159088173",
+    "group": "Private chat"
+  },
+  {
+    "name": "Let Him Cook",
+    "command": "restart",
+    "query": "",
+    "time": "00:06:11",
+    "number": "6285159088173",
+    "group": "Private chat"
+  },
+  {
+    "name": "Let Him Cook",
+    "command": "backup",
+    "query": "",
+    "time": "00:06:20",
+    "number": "6285159088173",
+    "group": "Private chat"
+  }
+]
